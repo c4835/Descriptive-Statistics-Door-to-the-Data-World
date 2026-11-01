@@ -1,0 +1,6 @@
+{
+  "name": "An Introduction to Descriptive Statistics: A Door to the Data World",
+  "description": "An accessible, Feynman-style interactive statistics learning app for adult beginners featuring everyday examples, deliberate mistake detection, independent teach-backs, and multilingual support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
